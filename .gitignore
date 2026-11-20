@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+error_log
+debug.log
+
+# WordPress temporary/cache directories
+wp-content/upgrade/
+wp-content/cache/
+wp-content/tf_cache_config/

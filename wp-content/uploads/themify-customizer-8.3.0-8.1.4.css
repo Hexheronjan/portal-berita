@@ -1,0 +1,44 @@
+/* Themify Customize Styling */
+#headerwrap {	background: none;
+	background-color: #ffffff; 
+}
+body #site-logo a img {		width: 200px; 
+}
+#main-nav a {	
+	padding: 10px;	font-weight:600;
+	letter-spacing:0px;
+	font-size:14px;
+	line-height:1.4px;
+ 
+}
+#footerwrap {	background: none;
+	background-color: #000000; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+@media(max-width: 1024px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 200px; 
+}
+ }@media(max-width: 768px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 200px; 
+}
+ }@media(max-width: 600px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 200px; 
+}
+ }
+/* Themify Custom CSS */
+/* Ukuran kotak submenu */
+.main-navigation ul ul{
+    min-width:250px;
+}
+
+/* Ukuran tulisan submenu */
+.main-navigation ul ul li a{
+    font-size:20px;
+    padding:12px 20px;
+    line-height:1.5;
+}
